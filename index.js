@@ -3,6 +3,6 @@
 
 function writeCards(["Johnson", "Joseph"], "birthday"){
     for (let i = 0, i < writeCards.length; i++) {
-      console.log( `Thank you, ${writeCards[i]}, for the wonderful birthday gift.,`);
+      console.log( `Thank you, ${writeCards[i]}, for the wonderful birthday gift!,`);
     }
 }
